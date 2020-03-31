@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 雲莊集
-#+DATE: 2020-03-31 11:34:24.882870
+#+DATE: 2020-03-31 11:34:25.045260
 #+PROPERTY: ID KR4d0256
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR4d0256_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -534,7 +534,7 @@
 　　比繇舛政召致旱災數有謁於龍君之靈龍君不以為¶
 <pb:KR4d0256_WYG_002-24a>¶
 凟曰是知過而能自儆者也入秋以來屢賜之雨雖旱¶
-稼或&KR0635;而晚苗甚茂倘白露之前更賜一再之雨則嵗¶
+稼或虧而晚苗甚茂倘白露之前更賜一再之雨則嵗¶
 功畢矣謹命僚屬且謝且祈龍君之仁其尚念之¶
 ¶
 　　佑聖祠¶
